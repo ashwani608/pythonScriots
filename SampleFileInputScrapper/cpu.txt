@@ -1,0 +1,3 @@
+http://www.moneycontrol.com/stocks/marketstats/gainerloser.php?optex=BSE&opttopic=topgainers&index=-1
+http://www.moneycontrol.com/stocks/marketstats/gainerloser.php?optex=BSE&opttopic=topgainers&index=-1
+http://www.moneycontrol.com/stocks/marketstats/gainerloser.php?optex=BSE&opttopic=topgainers&index=-1
